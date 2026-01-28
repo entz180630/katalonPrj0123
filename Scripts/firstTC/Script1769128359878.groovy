@@ -19,13 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://portal.wisewires.com/')
-
-WebUI.switchToWindowTitle('')
+WebUI.navigateToUrl('https://portal.wisewires.com/login/actionLogin.do')
 
 WebUI.setText(findTestObject('Object Repository/Page_/input_Username_userId'), 'kn240805')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input_Password_pw'), '3s5hBBj5xG9TQwJXtrsGYg==')
+
+WebUI.setText(findTestObject('Object Repository/Page_/input_Username_userId'), 'kn240805')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input_Password_pw'), '3s5hBBj5xG9TQwJXtrsGYg==')
+
+WebUI.click(findTestObject('Object Repository/Page_/button_Password_btn-login'))
 
 WebUI.click(findTestObject('Object Repository/Page_/li__tab-link col-sm-2'))
 

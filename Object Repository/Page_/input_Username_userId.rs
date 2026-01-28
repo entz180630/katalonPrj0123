@@ -6,12 +6,12 @@
    <elementGuidId>07555bf3-7971-4a9d-b4da-664c23346f54</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#userId</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='userId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#userId</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>206a1769-bcb8-4022-b668-553d3f234abf</webElementGuid>
+      <webElementGuid>cdec3610-e100-4be3-897d-86d63b58287f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b7df491a-c870-49b3-9045-631ebb7c5999</webElementGuid>
+      <webElementGuid>76114c83-ba60-445b-b8b0-2e741fd7062a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>userId</value>
-      <webElementGuid>9e0cd836-2fe1-4406-8876-fb856ed0fb89</webElementGuid>
+      <webElementGuid>bff52794-48a7-433a-953c-cf3020ba1e32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>userId</value>
-      <webElementGuid>d28dffea-2dd3-4c07-928f-326efc3f59f3</webElementGuid>
+      <webElementGuid>7f739a68-19ed-4f05-a103-f6053db250a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>아이디를 입력하세요</value>
-      <webElementGuid>9701a932-447b-4be9-aeae-8fcb9cdc95f5</webElementGuid>
+      <webElementGuid>2271cb70-11b7-42c2-90c5-8388ab64321d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2518d3a7-38af-4263-b142-24adab084814</webElementGuid>
+      <webElementGuid>ff5497ea-4378-4a0b-b6f8-5f81dbcd7484</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;userId&quot;)</value>
-      <webElementGuid>c32bfe3d-539d-4ea8-9e19-63c4bb439052</webElementGuid>
+      <webElementGuid>ef5caa2a-7b1e-4960-a94f-fdba19095e14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='userId']</value>
-      <webElementGuid>66851590-b044-4795-8794-b1b56ef16c02</webElementGuid>
+      <webElementGuid>35f1d414-79ec-4012-9765-18364c161dde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/div/input</value>
-      <webElementGuid>fb735db7-6ad6-439e-ad7c-9640232dbe34</webElementGuid>
+      <webElementGuid>09488a19-7014-4145-98e5-8b56febf32f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>16d5fc0d-5161-4ecf-befd-0e5cc53689a6</webElementGuid>
+      <webElementGuid>11962dd0-e35b-4a1c-a1f4-600637a0cef7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'userId' and @id = 'userId' and @placeholder = '아이디를 입력하세요']</value>
-      <webElementGuid>303c3b8f-7123-4a29-9a11-db338d3ebc75</webElementGuid>
+      <webElementGuid>2eefd517-c7ab-4f9e-a7e9-dc2e4d7fa4dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>0553db28-0972-4090-ab09-fa68e2b86a36</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.tab-link.col-sm-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='content']/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.tab-link.col-sm-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>73d055f0-9728-49d5-adbd-91db19bf8b9a</webElementGuid>
+      <webElementGuid>81a26da7-924b-4145-957d-b130243fd73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tab-link col-sm-2</value>
-      <webElementGuid>d67171e9-1350-4a46-bd6a-c4aac2c9812d</webElementGuid>
+      <webElementGuid>72aa8006-bd19-46b6-8b95-c55baa771796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-tab</name>
       <type>Main</type>
       <value>tab-1</value>
-      <webElementGuid>e8693142-98e5-4bec-9afc-86a895a8a39b</webElementGuid>
+      <webElementGuid>900d37c2-9b11-4d69-9063-124124bd169f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>발령사항</value>
-      <webElementGuid>c1864d6d-02b2-4262-9d4b-de58c5deb1d6</webElementGuid>
+      <webElementGuid>7563790b-23ff-4c7b-84c5-8788c6132cdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;container&quot;)/section[@id=&quot;content&quot;]/div[@class=&quot;box-style&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;tab-link col-sm-2&quot;]</value>
-      <webElementGuid>d7d4e8fb-0fc9-43f5-8ea6-9a93a2ef48a9</webElementGuid>
+      <webElementGuid>4612bc51-8d64-4e45-bda0-998564797f85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='content']/div[2]/ul/li</value>
-      <webElementGuid>aaf79349-df2f-4cb0-af41-a91665456077</webElementGuid>
+      <webElementGuid>d2a88652-e61c-4c07-b515-0c002225f17d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인결함관리'])[1]/following::li[1]</value>
-      <webElementGuid>61e6cb0c-f31d-4778-a1c5-af20bf0479cc</webElementGuid>
+      <webElementGuid>34befdcb-8275-4739-97ee-7ea745e8eaed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='경력'])[2]/preceding::li[1]</value>
-      <webElementGuid>fbe56950-48a1-47e5-8020-ce4ed8a5fd5e</webElementGuid>
+      <webElementGuid>5c74e464-9062-4879-9f03-a7efb5cf2b63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='성장'])[2]/preceding::li[2]</value>
-      <webElementGuid>2047e68c-215d-47fc-b335-e4063b5f4000</webElementGuid>
+      <webElementGuid>a6f5970b-e326-41b0-b2d8-82ca7db1bb34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='발령사항']/parent::*</value>
-      <webElementGuid>ee1390a6-b56b-4881-94cf-907a6b91bc7d</webElementGuid>
+      <webElementGuid>61f0836b-722b-4d0c-bee7-0ed4915463e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>8be90582-31b4-4c75-bae8-0ec467b587bf</webElementGuid>
+      <webElementGuid>7108e37a-28ec-4ad0-bdd7-6e160f85575b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = '발령사항' or . = '발령사항')]</value>
-      <webElementGuid>8461bae2-1c0c-45c5-bc77-c5415435424b</webElementGuid>
+      <webElementGuid>1253c28d-b4c0-4859-98ba-52dca0acd6ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

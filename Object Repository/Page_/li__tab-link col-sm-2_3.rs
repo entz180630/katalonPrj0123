@@ -6,12 +6,11 @@
    <elementGuidId>9c153d19-ffe2-45c2-933d-73ad720bf096</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='content']/div[2]/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>676659f5-6e34-4ba2-96a4-3c98ecf53a41</webElementGuid>
+      <webElementGuid>702ec8a4-88d9-4a87-a0d4-ac1591b34089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tab-link col-sm-2</value>
-      <webElementGuid>08791b41-72f8-4019-bde6-114204dc5ced</webElementGuid>
+      <webElementGuid>5e0d451d-08c7-4d78-97e5-9bc8c652d2f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +44,7 @@
       <name>data-tab</name>
       <type>Main</type>
       <value>tab-4</value>
-      <webElementGuid>6f6da71b-5e38-4261-aabc-2fbe028faa23</webElementGuid>
+      <webElementGuid>5bc34a5d-1ee7-4a83-8d73-565edd202e80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>연차</value>
-      <webElementGuid>da43980d-c6d3-454c-ac17-8092bf4ca853</webElementGuid>
+      <webElementGuid>acd66582-04f2-40b2-901b-c5fb906890ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;container&quot;)/section[@id=&quot;content&quot;]/div[@class=&quot;box-style&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;tab-link col-sm-2&quot;]</value>
-      <webElementGuid>5f37eea2-7f02-4d86-a25e-c592423f69c3</webElementGuid>
+      <webElementGuid>8e3f25c8-d954-40ce-a2a0-872af4e8a661</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='content']/div[2]/ul/li[4]</value>
-      <webElementGuid>7a754a52-bca6-4cb1-836b-7b7641db5b24</webElementGuid>
+      <webElementGuid>4cf89927-2a46-4424-af6e-03374c177b1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='성장'])[2]/following::li[1]</value>
-      <webElementGuid>d4b66451-793c-4684-8b58-20aa9ab8216e</webElementGuid>
+      <webElementGuid>a3677087-e79a-4ded-ac9d-fb460f428cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='경력'])[2]/following::li[2]</value>
-      <webElementGuid>35cbe251-81e6-4db9-9cf3-1e2a52543db2</webElementGuid>
+      <webElementGuid>75e59a21-5632-4a42-a82c-3c8565c82eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인결함관리'])[2]/preceding::li[1]</value>
-      <webElementGuid>868ddcb5-49e8-4d21-8f4e-daf274ec49c6</webElementGuid>
+      <webElementGuid>feefefeb-e2f8-4060-84d9-ee81cd7e9926</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='자산'])[1]/preceding::li[2]</value>
-      <webElementGuid>e6fe9f28-28f4-46dd-b1b0-d81d33ff0ff0</webElementGuid>
+      <webElementGuid>28353863-c0eb-444f-86f7-b2d0ab13a988</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]</value>
-      <webElementGuid>cac080a4-1175-4e07-b6fe-66bc42e485c5</webElementGuid>
+      <webElementGuid>2a12d925-695d-46ad-9cd6-29b4a59ec416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = '연차' or . = '연차')]</value>
-      <webElementGuid>c94aeb6d-1159-4416-bd08-2344df95b1f7</webElementGuid>
+      <webElementGuid>8217e745-cbc0-4d53-9d6e-f92a1f4ac2d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

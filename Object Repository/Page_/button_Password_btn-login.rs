@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li__tab-link col-sm-2_5</name>
+   <name>button_Password_btn-login</name>
    <tag></tag>
-   <elementGuidId>15530eed-7f9f-4419-bb2b-c81db6205cef</elementGuidId>
+   <elementGuidId>a2e359d4-2912-4f37-9d8e-1c9589bad9ba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='content']/div[2]/ul/li[6]</value>
+         <value>//button[@type='button']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>button.btn-login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;자산&quot;s</value>
+         <value>internal:role=button[name=&quot;로그인&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,103 +28,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>li</value>
-      <webElementGuid>17630bfc-aba3-4188-b5bb-1fa8356b5572</webElementGuid>
+      <value>button</value>
+      <webElementGuid>9e1ddb5a-01fb-4184-afd8-46b3f592ad9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>33251680-79d5-4786-b9ad-85e3ada06af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>tab-link col-sm-2</value>
-      <webElementGuid>9c337b45-cfed-4f8e-93dc-fe33a2f5cd29</webElementGuid>
+      <value>btn-login</value>
+      <webElementGuid>80260b63-9126-43dd-9493-4227ea6d21da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-tab</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>tab-6</value>
-      <webElementGuid>9e09a0c2-5b86-48d2-ac39-993e6cc005bc</webElementGuid>
+      <value>javascript:login();</value>
+      <webElementGuid>900551f0-cf9a-4d80-93d9-30074ed20ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>javascript:enterLogin();</value>
+      <webElementGuid>54b4a3a6-d7b9-4089-8b50-7ea0cfb6ef21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>자산</value>
-      <webElementGuid>4b331f35-8455-43ee-9f25-0f11576cf19e</webElementGuid>
+      <value>로그인</value>
+      <webElementGuid>62287bf7-b64d-4b52-b247-83111fb77da7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;container&quot;)/section[@id=&quot;content&quot;]/div[@class=&quot;box-style&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;tab-link col-sm-2&quot;]</value>
-      <webElementGuid>9ba2a7e9-2423-4bc7-a81a-b8543e8c63df</webElementGuid>
+      <value>id(&quot;login&quot;)/div[@class=&quot;login-box&quot;]/button[@class=&quot;btn-login&quot;]</value>
+      <webElementGuid>5b669113-ea59-4dfb-b3d8-33142ac7378f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>37b11192-5252-4959-a27d-7014d820a047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='content']/div[2]/ul/li[6]</value>
-      <webElementGuid>5c6ae504-2dd8-478a-9b05-c81c71a1342e</webElementGuid>
+      <value>//section[@id='login']/div[2]/button</value>
+      <webElementGuid>c7b0f266-3a6f-4cd4-a2d3-2c4cd0278a5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='개인결함관리'])[2]/following::li[1]</value>
-      <webElementGuid>59459f5e-e798-4009-bea7-f4e94053e154</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>bd554be3-be47-414f-9398-09cb2c3463ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='연차'])[2]/following::li[2]</value>
-      <webElementGuid>8352b206-4f00-4b9c-8c24-523b65aa5314</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
+      <webElementGuid>9329c966-3c96-4efa-9cea-dbd21a863558</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='발령종류'])[1]/preceding::li[1]</value>
-      <webElementGuid>d5b5150f-e8a9-4e44-9dff-507ed5c76376</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WISEWIRES'])[1]/preceding::button[1]</value>
+      <webElementGuid>203681c8-4f9c-4b8c-882a-4025ffd2ca34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='발령일자'])[1]/preceding::li[1]</value>
-      <webElementGuid>95581b1b-877f-424c-a71a-13c1e2bac68d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='자산']/parent::*</value>
-      <webElementGuid>d2d02f62-fd11-4460-bbcf-95d5f5206e8f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='로그인']/parent::*</value>
+      <webElementGuid>106b6ce9-8807-4120-b5a0-b2788db49bbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[6]</value>
-      <webElementGuid>9544b055-0633-4965-b4fc-34b826527fcd</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>b355ea91-af2a-4670-9bac-6fa30e3bfd25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = '자산' or . = '자산')]</value>
-      <webElementGuid>5a0f7da5-f1cb-4a45-97c9-b618b48e0c96</webElementGuid>
+      <value>//button[@type = 'button' and (text() = '로그인' or . = '로그인')]</value>
+      <webElementGuid>1727771f-fd9f-4f31-8da9-10f7e1dfd95c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
