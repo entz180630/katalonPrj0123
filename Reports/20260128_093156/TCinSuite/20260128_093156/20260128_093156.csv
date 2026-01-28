@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TCinSuite,,,,28-01-2026 09:31:59,28-01-2026 09:32:04,4.858s,FAILED
+,,,,,,,
+Test Cases/firstTC,,,,28-01-2026 09:32:03,28-01-2026 09:32:04,0.705s,FAILED
+"openBrowser("""")",,,,28-01-2026 09:32:03,28-01-2026 09:32:04,0.686s,FAILED
