@@ -1,0 +1,37 @@
+2026-01-28 09:47:27.282 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback default configuration initialized from: C:\Users\김인환\.katalon\packages\KSE-10.3.1\configuration\org.eclipse.osgi\131\0\.cp\resources\logback\logback-execution.xml
+2026-01-28 09:47:27.288 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback custom configuration initialized from: C:\Users\김인환\git\katalonPrj0123\Include\config\log.properties
+2026-01-28 09:47:27.436 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/TCinSuite
+2026-01-28 09:47:27.510 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Qgames Inc
+2026-01-28 09:47:27.512 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = katalonPrj0123
+2026-01-28 09:47:27.513 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = 김인환 - 192.168.0.179
+2026-01-28 09:47:27.514 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2026-01-28 09:47:27.515 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.0.179
+2026-01-28 09:47:27.518 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.4.0.0
+2026-01-28 09:47:27.975 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-01-28 09:47:27.975 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/firstTC
+2026-01-28 09:47:28.280 DEBUG testcase.firstTC                         - 1: openBrowser("")
+2026-01-28 09:47:28.462 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-01-28 09:47:28.513 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+1월 28, 2026 9:47:29 오전 org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+경고: Unable to find CDP implementation matching 144
+1월 28, 2026 9:47:29 오전 org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+경고: Unable to find version of CDP to use for 144.0.7559.97. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2026-01-28 09:47:30.137 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = d288ed8841089252e3cefbe19017df19
+2026-01-28 09:47:30.138 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 144.0.7559.97
+2026-01-28 09:47:30.139 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-01-28 09:47:30.141 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2026-01-28 09:47:30.150 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-01-28 09:47:30.200 DEBUG testcase.firstTC                         - 2: navigateToUrl("https://portal.wisewires.com/")
+2026-01-28 09:47:30.385 DEBUG testcase.firstTC                         - 3: setText(findTestObject("Object Repository/Page_/input_Username_userId"), "kn240805")
+2026-01-28 09:47:31.917 DEBUG testcase.firstTC                         - 4: setEncryptedText(findTestObject("Object Repository/Page_/input_Password_pw"), "3s5hBBj5xG9TQwJXtrsGYg==")
+2026-01-28 09:47:32.292 DEBUG testcase.firstTC                         - 5: click(findTestObject("Object Repository/Page_/button_Password_btn-login"))
+2026-01-28 09:47:34.176 DEBUG testcase.firstTC                         - 6: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2"))
+2026-01-28 09:47:38.003 DEBUG testcase.firstTC                         - 7: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_1"))
+2026-01-28 09:47:38.342 DEBUG testcase.firstTC                         - 8: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_2"))
+2026-01-28 09:47:38.669 DEBUG testcase.firstTC                         - 9: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_3"))
+2026-01-28 09:47:39.012 DEBUG testcase.firstTC                         - 10: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_4"))
+2026-01-28 09:47:39.350 DEBUG testcase.firstTC                         - 11: click(findTestObject("Object Repository/Page_/li__tab-link col-sm-2_5"))
+2026-01-28 09:47:39.669 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/firstTC
+2026-01-28 09:47:39.850 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-01-28 09:47:39.850 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/TCinSuite
+2026-01-28 09:47:39.850 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

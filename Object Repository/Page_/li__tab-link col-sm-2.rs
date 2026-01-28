@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='content']/div[2]/ul/li</value>
+         <value>//section[@id='content']/div[2]/ul/li[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>81a26da7-924b-4145-957d-b130243fd73d</webElementGuid>
+      <webElementGuid>02f8a0c1-ec6f-47d2-997c-47da0db80e80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tab-link col-sm-2</value>
-      <webElementGuid>72aa8006-bd19-46b6-8b95-c55baa771796</webElementGuid>
+      <webElementGuid>7d450750-634b-4baf-82a5-ebd432d90fb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-tab</name>
       <type>Main</type>
       <value>tab-1</value>
-      <webElementGuid>900d37c2-9b11-4d69-9063-124124bd169f</webElementGuid>
+      <webElementGuid>b525f21e-de16-49f6-8446-c5cfb93df0e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>발령사항</value>
-      <webElementGuid>7563790b-23ff-4c7b-84c5-8788c6132cdf</webElementGuid>
+      <webElementGuid>8f10cca8-f810-48eb-b992-551b0c68dae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;container&quot;)/section[@id=&quot;content&quot;]/div[@class=&quot;box-style&quot;]/ul[@class=&quot;tabs&quot;]/li[@class=&quot;tab-link col-sm-2&quot;]</value>
-      <webElementGuid>4612bc51-8d64-4e45-bda0-998564797f85</webElementGuid>
+      <webElementGuid>1c5a42e5-c441-4a16-a66f-53381042b3cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='content']/div[2]/ul/li</value>
-      <webElementGuid>d2a88652-e61c-4c07-b515-0c002225f17d</webElementGuid>
+      <webElementGuid>3b12ff60-f812-4773-8bec-e84020203b82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인결함관리'])[1]/following::li[1]</value>
-      <webElementGuid>34befdcb-8275-4739-97ee-7ea745e8eaed</webElementGuid>
+      <webElementGuid>2205f7ee-aa9b-4025-8334-05be8bdce6ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='경력'])[2]/preceding::li[1]</value>
-      <webElementGuid>5c74e464-9062-4879-9f03-a7efb5cf2b63</webElementGuid>
+      <webElementGuid>e233520a-de77-48cd-9aaf-24e92def4be0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='성장'])[2]/preceding::li[2]</value>
-      <webElementGuid>a6f5970b-e326-41b0-b2d8-82ca7db1bb34</webElementGuid>
+      <webElementGuid>2f41f6d4-467f-44b7-a6d6-d4ea079d2e57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='발령사항']/parent::*</value>
-      <webElementGuid>61f0836b-722b-4d0c-bee7-0ed4915463e8</webElementGuid>
+      <webElementGuid>b32f7dd0-bdcf-4fdb-82be-5170fae912b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>7108e37a-28ec-4ad0-bdd7-6e160f85575b</webElementGuid>
+      <webElementGuid>a0dc4fc6-b612-4c0c-8590-e76efd9c6a55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = '발령사항' or . = '발령사항')]</value>
-      <webElementGuid>1253c28d-b4c0-4859-98ba-52dca0acd6ad</webElementGuid>
+      <webElementGuid>caaef849-4e37-412e-8ab9-6f2d1d015e09</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
